@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Query-Star-War-Info/static/css/main.8557d6c6.chunk.css",
+    "main.js": "/React-Query-Star-War-Info/static/js/main.67ca8223.chunk.js",
+    "main.js.map": "/React-Query-Star-War-Info/static/js/main.67ca8223.chunk.js.map",
+    "runtime-main.js": "/React-Query-Star-War-Info/static/js/runtime-main.732b73cb.js",
+    "runtime-main.js.map": "/React-Query-Star-War-Info/static/js/runtime-main.732b73cb.js.map",
+    "static/js/2.ddac6c39.chunk.js": "/React-Query-Star-War-Info/static/js/2.ddac6c39.chunk.js",
+    "static/js/2.ddac6c39.chunk.js.map": "/React-Query-Star-War-Info/static/js/2.ddac6c39.chunk.js.map",
+    "index.html": "/React-Query-Star-War-Info/index.html",
+    "static/css/main.8557d6c6.chunk.css.map": "/React-Query-Star-War-Info/static/css/main.8557d6c6.chunk.css.map",
+    "static/js/2.ddac6c39.chunk.js.LICENSE.txt": "/React-Query-Star-War-Info/static/js/2.ddac6c39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.732b73cb.js",
+    "static/js/2.ddac6c39.chunk.js",
+    "static/css/main.8557d6c6.chunk.css",
+    "static/js/main.67ca8223.chunk.js"
+  ]
+}
